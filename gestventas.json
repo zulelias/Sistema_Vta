@@ -1,0 +1,25 @@
+[
+    {
+        "fecha": "2024-08-04 21:39:49",
+        "cliente": "Juan L\u00f3pez",
+        "productos": [
+            "Tornillos 100",
+            " pinza R"
+        ],
+        "direccion_envio": "Falucho 234",
+        "metodo_pago": "Efectivo",
+        "tipo": "online"
+    },
+    {
+        "fecha": "2024-08-04 21:41:21",
+        "cliente": "Pedro Novoa",
+        "productos": [
+            "Barra 18",
+            " Tornillos 60",
+            " clavos bolsa 50"
+        ],
+        "cajero": "Sebasti\u00e1n ",
+        "tienda": "Suc 3",
+        "tipo": "local"
+    }
+]
